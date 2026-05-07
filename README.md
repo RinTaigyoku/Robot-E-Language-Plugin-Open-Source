@@ -28,6 +28,9 @@ The archive contains a total of **194 open-source files** with complete source c
 
 > **注意 | Note:** 压缩包中可能包含易语言编译模块文件（.ec）。
 
+<img width="958" height="675" alt="image" src="https://github.com/user-attachments/assets/8b4cb036-4d57-479b-a3a4-de9c025743d3" />
+
+
 ## 🚨 免责声明 | Disclaimer
 1. 本项目上传仅供 **学习交流与技术记录** 目的，严禁用于任何非法用途。
    
